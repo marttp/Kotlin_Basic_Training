@@ -1,3 +1,5 @@
+package Basic
+
 fun main(args: Array<String>){
     // Number
     var byte : Byte = 1 //size: 8 bits

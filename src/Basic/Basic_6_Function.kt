@@ -1,3 +1,5 @@
+package Basic
+
 fun main(args:Array<String>){
     getName("Mart", "Test")
 }

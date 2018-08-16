@@ -1,5 +1,7 @@
+package Basic
+
 fun main(args: Array<String>) {
-    println(max(5,9))
+    println(max(5, 9))
     println(testCheckGrade(readLine()!!.toInt()))
 }
 

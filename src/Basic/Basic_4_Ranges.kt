@@ -1,3 +1,5 @@
+package Basic
+
 fun main(args:Array<String>){
     val range: IntRange = 1..20
     val reverseRange: IntProgression = range.reversed() //20 downTo 1

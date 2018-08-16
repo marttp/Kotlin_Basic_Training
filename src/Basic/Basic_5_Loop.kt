@@ -1,3 +1,5 @@
+package Basic
+
 fun main(args:Array<String>){
 
     var person: Array<String> = arrayOf("Mart","Mart1","Mart2","Mart3")
